@@ -1,0 +1,1535 @@
+{
+  "CALL-001": {
+    "call_id": "CALL-001",
+    "original_filename": "call1.mp4",
+    "duration_seconds": 105.94,
+    "duration_formatted": "1:45",
+    "analysis_status": "completed",
+    "error_message": null,
+    "transcript": "Hello. Good morning. I am speaking with Samir. Yes, speaking. Hi, Samir. I am calling from Brightness Solutions. You attended our online product presentation last week. I wanted to know what you thought of this software. Actually, I liked it. The customer tracking and automated follow features would be useful for our sales team. That's great to hear. How many people would need access to the software? Around 15. At the moment, we use spreadsheets and our team sometimes misses important follow ups. Our team plan could help with that. It costs Rs. 24,000 per year and includes reporting automated reminders and team access. The features sound good, but 24,000 is slightly above the budget I had in mind. I understand. Could you share the approximate budget you are working with? I can check whether another plan would suit your requirements. We were hoping to spend around Rs. 18,000 annually. Also, I would need my manager's approval before purchasing. That makes sense. I can check with which plan best fits your needs. And we can provide a summary that you can share with your manager. That would be helpful. If the pricing works out and my manager approves it, we would start using it next month. Excellent. Would you be available for short follow up call on Thursday after I have checked the available options? Yes. Thursday afternoon works. Please send me the planned details before then. Absolutely. I will send them today and call you on Thursday. Perfect. Thank you. Thank you for your time, Samir. Have a good day. Good day.",
+    "transcript_segments": [
+      {
+        "start": 1.39,
+        "end": 2.39,
+        "text": "Hello."
+      },
+      {
+        "start": 2.39,
+        "end": 3.39,
+        "text": "Good morning."
+      },
+      {
+        "start": 3.39,
+        "end": 4.39,
+        "text": "I am speaking with Samir."
+      },
+      {
+        "start": 4.39,
+        "end": 5.39,
+        "text": "Yes, speaking."
+      },
+      {
+        "start": 5.39,
+        "end": 6.39,
+        "text": "Hi, Samir."
+      },
+      {
+        "start": 6.39,
+        "end": 9.39,
+        "text": "I am calling from Brightness Solutions."
+      },
+      {
+        "start": 9.39,
+        "end": 13.71,
+        "text": "You attended our online product presentation last week."
+      },
+      {
+        "start": 13.71,
+        "end": 17.15,
+        "text": "I wanted to know what you thought of this software."
+      },
+      {
+        "start": 17.15,
+        "end": 18.71,
+        "text": "Actually, I liked it."
+      },
+      {
+        "start": 18.71,
+        "end": 24.63,
+        "text": "The customer tracking and automated follow features would be useful for our sales team."
+      },
+      {
+        "start": 24.63,
+        "end": 25.63,
+        "text": "That's great to hear."
+      },
+      {
+        "start": 25.63,
+        "end": 29.11,
+        "text": "How many people would need access to the software?"
+      },
+      {
+        "start": 29.11,
+        "end": 30.11,
+        "text": "Around 15."
+      },
+      {
+        "start": 30.11,
+        "end": 35.31,
+        "text": "At the moment, we use spreadsheets and our team sometimes misses important follow ups."
+      },
+      {
+        "start": 35.31,
+        "end": 37.47,
+        "text": "Our team plan could help with that."
+      },
+      {
+        "start": 37.47,
+        "end": 45.23,
+        "text": "It costs Rs. 24,000 per year and includes reporting automated reminders and team access."
+      },
+      {
+        "start": 45.23,
+        "end": 51.11,
+        "text": "The features sound good, but 24,000 is slightly above the budget I had in mind."
+      },
+      {
+        "start": 51.11,
+        "end": 52.11,
+        "text": "I understand."
+      },
+      {
+        "start": 52.11,
+        "end": 55.51,
+        "text": "Could you share the approximate budget you are working with?"
+      },
+      {
+        "start": 55.51,
+        "end": 59.51,
+        "text": "I can check whether another plan would suit your requirements."
+      },
+      {
+        "start": 59.51,
+        "end": 62.95,
+        "text": "We were hoping to spend around Rs. 18,000 annually."
+      },
+      {
+        "start": 62.95,
+        "end": 67.43,
+        "text": "Also, I would need my manager's approval before purchasing."
+      },
+      {
+        "start": 67.43,
+        "end": 68.43,
+        "text": "That makes sense."
+      },
+      {
+        "start": 68.43,
+        "end": 74.15,
+        "text": "I can check with which plan best fits your needs."
+      },
+      {
+        "start": 74.15,
+        "end": 78.15,
+        "text": "And we can provide a summary that you can share with your manager."
+      },
+      {
+        "start": 78.15,
+        "end": 79.15,
+        "text": "That would be helpful."
+      },
+      {
+        "start": 79.15,
+        "end": 85.07,
+        "text": "If the pricing works out and my manager approves it, we would start using it next month."
+      },
+      {
+        "start": 85.07,
+        "end": 86.07,
+        "text": "Excellent."
+      },
+      {
+        "start": 86.07,
+        "end": 90.91,
+        "text": "Would you be available for short follow up call on Thursday after I have checked the available"
+      },
+      {
+        "start": 90.91,
+        "end": 91.91,
+        "text": "options?"
+      },
+      {
+        "start": 91.91,
+        "end": 92.91,
+        "text": "Yes."
+      },
+      {
+        "start": 92.91,
+        "end": 93.91,
+        "text": "Thursday afternoon works."
+      },
+      {
+        "start": 93.91,
+        "end": 96.39,
+        "text": "Please send me the planned details before then."
+      },
+      {
+        "start": 96.39,
+        "end": 97.39,
+        "text": "Absolutely."
+      },
+      {
+        "start": 97.39,
+        "end": 100.39,
+        "text": "I will send them today and call you on Thursday."
+      },
+      {
+        "start": 100.39,
+        "end": 101.39,
+        "text": "Perfect."
+      },
+      {
+        "start": 101.39,
+        "end": 102.39,
+        "text": "Thank you."
+      },
+      {
+        "start": 102.39,
+        "end": 103.39,
+        "text": "Thank you for your time, Samir."
+      },
+      {
+        "start": 103.39,
+        "end": 104.39,
+        "text": "Have a good day."
+      },
+      {
+        "start": 104.39,
+        "end": 105.39,
+        "text": "Good day."
+      }
+    ],
+    "sentiment": "Positive",
+    "sentiment_explanation": "Samir expressed positive feedback by stating, \"Actually, I liked it\" and that the features \"would be useful for our sales team\" and \"sound good.\" He also cooperatively engaged in scheduling a follow-up call.",
+    "summary": "Samir, a potential customer, confirmed interest in Brightness Solutions' software, specifically its customer tracking and automated follow-up features for his 15-person sales team, which currently struggles with missed follow-ups using spreadsheets. He noted the Rs. 24,000/year price was above his Rs. 18,000/year budget and requires manager approval. A follow-up call is scheduled for Thursday to explore alternative plans and provide a summary for his manager.",
+    "customer_needs": [
+      "Customer tracking",
+      "Automated follow-up features",
+      "Solution for a 15-person sales team",
+      "Address missed important follow-ups (currently using spreadsheets)",
+      "Reporting",
+      "Automated reminders",
+      "Team access"
+    ],
+    "buying_signals": [
+      "Actually, I liked it.",
+      "The customer tracking and automated follow features would be useful for our sales team.",
+      "The features sound good",
+      "If the pricing works out and my manager approves it, we would start using it next month.",
+      "Agreed to a follow-up call.",
+      "Requested planned details before the call."
+    ],
+    "objections": [
+      "Price (Rs. 24,000 is slightly above the Rs. 18,000 budget)",
+      "Requires manager's approval"
+    ],
+    "customer_behavior": "Samir was engaged, responsive, and clear in his communication. He provided specific details about his team's needs, budget, and internal processes, indicating a serious consideration of the product.",
+    "recommended_next_action": "Research alternative plans that fit the customer's Rs. 18,000 annual budget, prepare a summary of the proposed solution for the customer to share with their manager, and conduct the scheduled follow-up call on Thursday.",
+    "evidence": [
+      "Actually, I liked it. The customer tracking and automated follow features would be useful for our sales team.",
+      "The features sound good, but 24,000 is slightly above the budget I had in mind.",
+      "If the pricing works out and my manager approves it, we would start using it next month.",
+      "Actually, I liked it. The customer tracking and automated follow features would be useful for our sales team."
+    ],
+    "purchase_likelihood": 55,
+    "purchase_score_label": "Potential Lead",
+    "purchase_factors": {
+      "buying_intent": {
+        "name": "Buying Intent",
+        "variable": "B",
+        "type": "positive",
+        "weight": 0.35,
+        "score": 70.0,
+        "is_unknown": false,
+        "confidence": 0.9,
+        "evidence": [
+          "Actually, I liked it. The customer tracking and automated follow features would be useful for our sales team.",
+          "If the pricing works out and my manager approves it, we would start using it next month."
+        ],
+        "explanation": "Samir expressed a clear liking for the software and its features, identified how it would be useful, and stated a conditional intent to start using it next month, pending budget and manager approval."
+      },
+      "budget_fit": {
+        "name": "Budget Fit",
+        "variable": "F",
+        "type": "positive",
+        "weight": 0.2,
+        "score": 40.0,
+        "is_unknown": false,
+        "confidence": 1.0,
+        "evidence": [
+          "The features sound good, but 24,000 is slightly above the budget I had in mind.",
+          "We were hoping to spend around Rs. 18,000 annually."
+        ],
+        "explanation": "The quoted price of Rs. 24,000 per year is explicitly stated by the customer as 'slightly above the budget' of Rs. 18,000 annually."
+      },
+      "urgency_timeline": {
+        "name": "Urgency & Timeline",
+        "variable": "U",
+        "type": "positive",
+        "weight": 0.15,
+        "score": 50.0,
+        "is_unknown": false,
+        "confidence": 1.0,
+        "evidence": [
+          "If the pricing works out and my manager approves it, we would start using it next month."
+        ],
+        "explanation": "The customer explicitly stated they would start using the software 'next month' if the conditions (pricing and manager approval) are met."
+      },
+      "product_fit": {
+        "name": "Product Fit",
+        "variable": "P",
+        "type": "positive",
+        "weight": 0.15,
+        "score": 85.0,
+        "is_unknown": false,
+        "confidence": 1.0,
+        "evidence": [
+          "Actually, I liked it. The customer tracking and automated follow features would be useful for our sales team.",
+          "The features sound good."
+        ],
+        "explanation": "The customer explicitly stated they liked the software and found the customer tracking and automated follow-up features useful, directly addressing their current issue of missed follow-ups."
+      },
+      "engagement": {
+        "name": "Engagement",
+        "variable": "E",
+        "type": "positive",
+        "weight": 0.15,
+        "score": 80.0,
+        "is_unknown": false,
+        "confidence": 1.0,
+        "evidence": [
+          "Actually, I liked it. The customer tracking and automated follow features would be useful for our sales team.",
+          "Around 15.",
+          "We were hoping to spend around Rs. 18,000 annually.",
+          "Also, I would need my manager's approval before purchasing.",
+          "That would be helpful. If the pricing works out and my manager approves it, we would start using it next month.",
+          "Yes. Thursday afternoon works. Please send me the planned details before then."
+        ],
+        "explanation": "Samir actively participated by providing details about his team's needs, current challenges, budget, and decision-making process, and engaged in scheduling the next steps."
+      },
+      "objections_impact": {
+        "name": "Objections Impact",
+        "variable": "O",
+        "type": "negative",
+        "weight": 0.2,
+        "score": 50.0,
+        "is_unknown": false,
+        "confidence": 0.9,
+        "evidence": [
+          "The features sound good, but 24,000 is slightly above the budget I had in mind.",
+          "Also, I would need my manager's approval before purchasing."
+        ],
+        "explanation": "The customer explicitly stated the price was above their budget and that manager approval is required, which are unresolved barriers to purchase."
+      }
+    },
+    "purchase_explanation": "Calculated heuristic Purchase Potential Score: 55/100 (Potential Lead). Positive Score = 64.75 (normalized over weight 1.00), Objection Penalty = -10.00 (0.20 * 50.0) -> S_raw = 54.75, clamped = 54.75.",
+    "analysis_timestamp": "2026-10-20 09:56 UTC",
+    "report_status": "available",
+    "call_label": "Call #001",
+    "file_size_bytes": 1719050,
+    "purchase_potential_score": 55,
+    "purchase_score_raw": 54.75,
+    "purchase_calculation": {
+      "score": 55,
+      "score_raw": 54.75,
+      "score_label": "Potential Lead",
+      "positive_score": 64.75,
+      "objection_penalty": 10.0,
+      "objection_penalty_applied": true,
+      "formula": "S_raw = (0.35 * B) + (0.20 * F) + (0.15 * U) + (0.15 * P) + (0.15 * E) - (0.20 * O)",
+      "weights_used": {
+        "buying_intent": 0.35,
+        "budget_fit": 0.2,
+        "urgency_timeline": 0.15,
+        "product_fit": 0.15,
+        "engagement": 0.15
+      },
+      "factors": {
+        "buying_intent": {
+          "name": "Buying Intent",
+          "variable": "B",
+          "type": "positive",
+          "weight": 0.35,
+          "score": 70.0,
+          "is_unknown": false,
+          "confidence": 0.9,
+          "evidence": [
+            "Actually, I liked it. The customer tracking and automated follow features would be useful for our sales team.",
+            "If the pricing works out and my manager approves it, we would start using it next month."
+          ],
+          "explanation": "Samir expressed a clear liking for the software and its features, identified how it would be useful, and stated a conditional intent to start using it next month, pending budget and manager approval."
+        },
+        "budget_fit": {
+          "name": "Budget Fit",
+          "variable": "F",
+          "type": "positive",
+          "weight": 0.2,
+          "score": 40.0,
+          "is_unknown": false,
+          "confidence": 1.0,
+          "evidence": [
+            "The features sound good, but 24,000 is slightly above the budget I had in mind.",
+            "We were hoping to spend around Rs. 18,000 annually."
+          ],
+          "explanation": "The quoted price of Rs. 24,000 per year is explicitly stated by the customer as 'slightly above the budget' of Rs. 18,000 annually."
+        },
+        "urgency_timeline": {
+          "name": "Urgency & Timeline",
+          "variable": "U",
+          "type": "positive",
+          "weight": 0.15,
+          "score": 50.0,
+          "is_unknown": false,
+          "confidence": 1.0,
+          "evidence": [
+            "If the pricing works out and my manager approves it, we would start using it next month."
+          ],
+          "explanation": "The customer explicitly stated they would start using the software 'next month' if the conditions (pricing and manager approval) are met."
+        },
+        "product_fit": {
+          "name": "Product Fit",
+          "variable": "P",
+          "type": "positive",
+          "weight": 0.15,
+          "score": 85.0,
+          "is_unknown": false,
+          "confidence": 1.0,
+          "evidence": [
+            "Actually, I liked it. The customer tracking and automated follow features would be useful for our sales team.",
+            "The features sound good."
+          ],
+          "explanation": "The customer explicitly stated they liked the software and found the customer tracking and automated follow-up features useful, directly addressing their current issue of missed follow-ups."
+        },
+        "engagement": {
+          "name": "Engagement",
+          "variable": "E",
+          "type": "positive",
+          "weight": 0.15,
+          "score": 80.0,
+          "is_unknown": false,
+          "confidence": 1.0,
+          "evidence": [
+            "Actually, I liked it. The customer tracking and automated follow features would be useful for our sales team.",
+            "Around 15.",
+            "We were hoping to spend around Rs. 18,000 annually.",
+            "Also, I would need my manager's approval before purchasing.",
+            "That would be helpful. If the pricing works out and my manager approves it, we would start using it next month.",
+            "Yes. Thursday afternoon works. Please send me the planned details before then."
+          ],
+          "explanation": "Samir actively participated by providing details about his team's needs, current challenges, budget, and decision-making process, and engaged in scheduling the next steps."
+        },
+        "objections_impact": {
+          "name": "Objections Impact",
+          "variable": "O",
+          "type": "negative",
+          "weight": 0.2,
+          "score": 50.0,
+          "is_unknown": false,
+          "confidence": 0.9,
+          "evidence": [
+            "The features sound good, but 24,000 is slightly above the budget I had in mind.",
+            "Also, I would need my manager's approval before purchasing."
+          ],
+          "explanation": "The customer explicitly stated the price was above their budget and that manager approval is required, which are unresolved barriers to purchase."
+        }
+      },
+      "explanation": "Calculated heuristic Purchase Potential Score: 55/100 (Potential Lead). Positive Score = 64.75 (normalized over weight 1.00), Objection Penalty = -10.00 (0.20 * 50.0) -> S_raw = 54.75, clamped = 54.75.",
+      "evidence": [
+        "Actually, I liked it. The customer tracking and automated follow features would be useful for our sales team.",
+        "The features sound good, but 24,000 is slightly above the budget I had in mind.",
+        "If the pricing works out and my manager approves it, we would start using it next month.",
+        "Actually, I liked it. The customer tracking and automated follow features would be useful for our sales team."
+      ],
+      "limitations": []
+    },
+    "audio_url": "/api/calls/CALL-001/audio"
+  },
+  "CALL-002": {
+    "call_id": "CALL-002",
+    "call_label": "Call #002",
+    "original_filename": "call2.mp4",
+    "file_size_bytes": 1504062,
+    "duration_seconds": 92.67,
+    "duration_formatted": "1:32",
+    "analysis_status": "completed",
+    "error_message": null,
+    "transcript": "Hello, good afternoon. I am speaking with Thithneha. Yes, I actually submitted my inquiry extra day but I haven't received any information yet. I am sorry about that Neha. I am calling from right-risk solutions. I would be happy to explain our product and answer your questions. Fine. But I don't want to spend too much time on this. I have already spoken to another company. I understand. Our product helps businesses manage customer records, activities and follow-ups. Our annual plan starts at Rs 12,000. 12,000? That's much more expensive than unexpected. Another provider of a lower price. I understand your concern. Our plan also includes reporting features and customer support. But how do I know the support will actually be helpful. I don't want to pay for something and then struggle to get assistance. That's a fair concern. We provide support to our customers and I can share the details of our service plans. Honestly, I am not convinced. I contacted your team yesterday and didn't receive a response. Now you are asking me to consider a more expensive product. I am sorry for the delay. I understand why. That will be frustrating. Please send me the complete pricing and support details by email. I will look at them but I am not making any decisions right now. Of course, I will send those details today. Thank you for sharing your concerns. All right, goodbye.",
+    "transcript_segments": [
+      {
+        "start": 1.78,
+        "end": 4.78,
+        "text": "Hello, good afternoon. I am speaking with Thithneha."
+      },
+      {
+        "start": 4.78,
+        "end": 7.78,
+        "text": "Yes, I actually submitted my inquiry extra day"
+      },
+      {
+        "start": 7.78,
+        "end": 10.78,
+        "text": "but I haven't received any information yet."
+      },
+      {
+        "start": 10.78,
+        "end": 12.78,
+        "text": "I am sorry about that Neha."
+      },
+      {
+        "start": 12.78,
+        "end": 15.78,
+        "text": "I am calling from right-risk solutions."
+      },
+      {
+        "start": 15.78,
+        "end": 18.78,
+        "text": "I would be happy to explain our product and answer your questions."
+      },
+      {
+        "start": 18.78,
+        "end": 21.78,
+        "text": "Fine. But I don't want to spend too much time on this."
+      },
+      {
+        "start": 21.78,
+        "end": 24.78,
+        "text": "I have already spoken to another company."
+      },
+      {
+        "start": 24.78,
+        "end": 29.78,
+        "text": "I understand. Our product helps businesses manage customer records,"
+      },
+      {
+        "start": 29.78,
+        "end": 34.78,
+        "text": "activities and follow-ups. Our annual plan starts at Rs 12,000."
+      },
+      {
+        "start": 34.78,
+        "end": 38.78,
+        "text": "12,000? That's much more expensive than unexpected."
+      },
+      {
+        "start": 38.78,
+        "end": 41.78,
+        "text": "Another provider of a lower price."
+      },
+      {
+        "start": 41.78,
+        "end": 46.78,
+        "text": "I understand your concern. Our plan also includes reporting features"
+      },
+      {
+        "start": 46.78,
+        "end": 48.78,
+        "text": "and customer support."
+      },
+      {
+        "start": 48.78,
+        "end": 52.78,
+        "text": "But how do I know the support will actually be helpful."
+      },
+      {
+        "start": 52.78,
+        "end": 56.78,
+        "text": "I don't want to pay for something and then struggle to get assistance."
+      },
+      {
+        "start": 56.78,
+        "end": 60.78,
+        "text": "That's a fair concern. We provide support to our customers"
+      },
+      {
+        "start": 60.78,
+        "end": 64.78,
+        "text": "and I can share the details of our service plans."
+      },
+      {
+        "start": 64.78,
+        "end": 67.78,
+        "text": "Honestly, I am not convinced. I contacted your team yesterday"
+      },
+      {
+        "start": 67.78,
+        "end": 69.78,
+        "text": "and didn't receive a response."
+      },
+      {
+        "start": 69.78,
+        "end": 73.78,
+        "text": "Now you are asking me to consider a more expensive product."
+      },
+      {
+        "start": 73.78,
+        "end": 78.78,
+        "text": "I am sorry for the delay. I understand why. That will be frustrating."
+      },
+      {
+        "start": 78.78,
+        "end": 81.78,
+        "text": "Please send me the complete pricing and support details by email."
+      },
+      {
+        "start": 81.78,
+        "end": 85.78,
+        "text": "I will look at them but I am not making any decisions right now."
+      },
+      {
+        "start": 85.78,
+        "end": 90.78,
+        "text": "Of course, I will send those details today. Thank you for sharing your concerns."
+      },
+      {
+        "start": 90.78,
+        "end": 92.78,
+        "text": "All right, goodbye."
+      }
+    ],
+    "sentiment": "Negative",
+    "sentiment_explanation": "The customer expressed frustration about a prior unresponded inquiry, stating \"I haven't received any information yet\" and \"I contacted your team yesterday and didn't receive a response.\" They found the product price \"much more expensive than unexpected\" compared to another provider and were skeptical about support quality, asking \"how do I know the support will actually be helpful.\" The customer explicitly stated, \"Honestly, I am not convinced.\"",
+    "summary": "The customer, Neha, called to follow up on an unresponded inquiry. She expressed frustration over the lack of prior communication and found the product's annual plan of Rs 12,000 to be significantly more expensive than expected, noting a competitor offered a lower price. She also raised concerns about the quality and reliability of customer support. Despite the salesperson's explanations, Neha remained unconvinced and requested complete pricing and support details via email, explicitly stating she is \"not making any decisions right now.\"",
+    "customer_needs": [
+      "Information about the product/service",
+      "Reliable and helpful customer support",
+      "Competitive pricing for managing customer records, activities, and follow-ups"
+    ],
+    "buying_signals": [],
+    "objections": [
+      "Prior inquiry was not responded to",
+      "Product price (Rs 12,000) is much more expensive than expected and higher than competitors",
+      "Skepticism about customer support quality and reliability",
+      "General lack of conviction about the product/service",
+      "Time constraint for the conversation"
+    ],
+    "recommended_next_action": "Promptly send the complete pricing and support details via email as requested. In the email, acknowledge and sincerely apologize again for the previous communication failure. Propose a follow-up call to discuss the emailed details, specifically addressing her concerns about pricing and support quality, and potentially offer a demo or trial to build confidence.",
+    "evidence": [
+      "Honestly, I am not convinced.",
+      "12,000? That's much more expensive than unexpected. Another provider of a lower price.",
+      "I am not making any decisions right now.",
+      "Our product helps businesses manage customer records, activities and follow-ups. Our plan also includes reporting features and customer support."
+    ],
+    "purchase_likelihood": 18,
+    "purchase_potential_score": 18,
+    "purchase_score_raw": 18.5,
+    "purchase_score_label": "Low Potential",
+    "purchase_factors": {
+      "buying_intent": {
+        "name": "Buying Intent",
+        "variable": "B",
+        "type": "positive",
+        "weight": 0.35,
+        "score": 15.0,
+        "is_unknown": false,
+        "confidence": 1.0,
+        "evidence": [
+          "Honestly, I am not convinced.",
+          "I will look at them but I am not making any decisions right now."
+        ],
+        "explanation": "The customer explicitly stated they are \"not convinced\" and \"not making any decisions right now,\" indicating very low buying intent."
+      },
+      "budget_fit": {
+        "name": "Budget Fit",
+        "variable": "F",
+        "type": "positive",
+        "weight": 0.2,
+        "score": 40.0,
+        "is_unknown": false,
+        "confidence": 1.0,
+        "evidence": [
+          "12,000? That's much more expensive than unexpected. Another provider of a lower price."
+        ],
+        "explanation": "The customer explicitly stated the Rs 12,000 price was \"much more expensive than unexpected\" and that another provider offered a lower price, indicating a poor budget fit."
+      },
+      "urgency_timeline": {
+        "name": "Urgency & Timeline",
+        "variable": "U",
+        "type": "positive",
+        "weight": 0.15,
+        "score": 15.0,
+        "is_unknown": false,
+        "confidence": 1.0,
+        "evidence": [
+          "I am not making any decisions right now."
+        ],
+        "explanation": "The customer explicitly stated they are \"not making any decisions right now,\" indicating no immediate urgency or timeline for purchase."
+      },
+      "product_fit": {
+        "name": "Product Fit",
+        "variable": "P",
+        "type": "positive",
+        "weight": 0.15,
+        "score": 65.0,
+        "is_unknown": false,
+        "confidence": 0.6,
+        "evidence": [
+          "Our product helps businesses manage customer records, activities and follow-ups. Our plan also includes reporting features and customer support."
+        ],
+        "explanation": "The customer did not explicitly state that the product's core features (managing customer records, activities, follow-ups, reporting) did not meet their needs. Their objections were primarily focused on price and support quality, suggesting the basic functionality might be acceptable, but the overall value proposition is not confirmed as a strong fit."
+      },
+      "engagement": {
+        "name": "Engagement",
+        "variable": "E",
+        "type": "positive",
+        "weight": 0.15,
+        "score": 55.0,
+        "is_unknown": false,
+        "confidence": 0.9,
+        "evidence": [
+          "I actually submitted my inquiry extra day but I haven't received any information yet.",
+          "But I don't want to spend too much time on this.",
+          "12,000? That's much more expensive than unexpected.",
+          "But how do I know the support will actually be helpful.",
+          "Please send me the complete pricing and support details by email."
+        ],
+        "explanation": "The customer initiated the call, asked clarifying questions about pricing and support, and requested further information, indicating moderate engagement despite expressing a desire not to spend too much time and being unconvinced."
+      },
+      "objections_impact": {
+        "name": "Objections Impact",
+        "variable": "O",
+        "type": "negative",
+        "weight": 0.2,
+        "score": 75.0,
+        "is_unknown": false,
+        "confidence": 1.0,
+        "evidence": [
+          "I haven't received any information yet.",
+          "12,000? That's much more expensive than unexpected. Another provider of a lower price.",
+          "But how do I know the support will actually be helpful. I don't want to pay for something and then struggle to get assistance.",
+          "Honestly, I am not convinced. I contacted your team yesterday and didn't receive a response."
+        ],
+        "explanation": "The customer raised several significant and unresolved objections, including a prior lack of response, the product being \"much more expensive than unexpected\" compared to competitors, and skepticism regarding support quality. These issues led to the customer explicitly stating they are \"not convinced\" and \"not making any decisions right now,\" indicating a high impact of objections."
+      }
+    },
+    "purchase_explanation": "Calculated heuristic Purchase Potential Score: 18/100 (Low Potential). Positive Score = 33.50 (normalized over weight 1.00), Objection Penalty = -15.00 (0.20 * 75.0) -> S_raw = 18.50, clamped = 18.50.",
+    "purchase_calculation": {
+      "score": 18,
+      "score_raw": 18.5,
+      "score_label": "Low Potential",
+      "positive_score": 33.5,
+      "objection_penalty": 15.0,
+      "objection_penalty_applied": true,
+      "formula": "S_raw = (0.35 * B) + (0.20 * F) + (0.15 * U) + (0.15 * P) + (0.15 * E) - (0.20 * O)",
+      "weights_used": {
+        "buying_intent": 0.35,
+        "budget_fit": 0.2,
+        "urgency_timeline": 0.15,
+        "product_fit": 0.15,
+        "engagement": 0.15
+      },
+      "factors": {
+        "buying_intent": {
+          "name": "Buying Intent",
+          "variable": "B",
+          "type": "positive",
+          "weight": 0.35,
+          "score": 15.0,
+          "is_unknown": false,
+          "confidence": 1.0,
+          "evidence": [
+            "Honestly, I am not convinced.",
+            "I will look at them but I am not making any decisions right now."
+          ],
+          "explanation": "The customer explicitly stated they are \"not convinced\" and \"not making any decisions right now,\" indicating very low buying intent."
+        },
+        "budget_fit": {
+          "name": "Budget Fit",
+          "variable": "F",
+          "type": "positive",
+          "weight": 0.2,
+          "score": 40.0,
+          "is_unknown": false,
+          "confidence": 1.0,
+          "evidence": [
+            "12,000? That's much more expensive than unexpected. Another provider of a lower price."
+          ],
+          "explanation": "The customer explicitly stated the Rs 12,000 price was \"much more expensive than unexpected\" and that another provider offered a lower price, indicating a poor budget fit."
+        },
+        "urgency_timeline": {
+          "name": "Urgency & Timeline",
+          "variable": "U",
+          "type": "positive",
+          "weight": 0.15,
+          "score": 15.0,
+          "is_unknown": false,
+          "confidence": 1.0,
+          "evidence": [
+            "I am not making any decisions right now."
+          ],
+          "explanation": "The customer explicitly stated they are \"not making any decisions right now,\" indicating no immediate urgency or timeline for purchase."
+        },
+        "product_fit": {
+          "name": "Product Fit",
+          "variable": "P",
+          "type": "positive",
+          "weight": 0.15,
+          "score": 65.0,
+          "is_unknown": false,
+          "confidence": 0.6,
+          "evidence": [
+            "Our product helps businesses manage customer records, activities and follow-ups. Our plan also includes reporting features and customer support."
+          ],
+          "explanation": "The customer did not explicitly state that the product's core features (managing customer records, activities, follow-ups, reporting) did not meet their needs. Their objections were primarily focused on price and support quality, suggesting the basic functionality might be acceptable, but the overall value proposition is not confirmed as a strong fit."
+        },
+        "engagement": {
+          "name": "Engagement",
+          "variable": "E",
+          "type": "positive",
+          "weight": 0.15,
+          "score": 55.0,
+          "is_unknown": false,
+          "confidence": 0.9,
+          "evidence": [
+            "I actually submitted my inquiry extra day but I haven't received any information yet.",
+            "But I don't want to spend too much time on this.",
+            "12,000? That's much more expensive than unexpected.",
+            "But how do I know the support will actually be helpful.",
+            "Please send me the complete pricing and support details by email."
+          ],
+          "explanation": "The customer initiated the call, asked clarifying questions about pricing and support, and requested further information, indicating moderate engagement despite expressing a desire not to spend too much time and being unconvinced."
+        },
+        "objections_impact": {
+          "name": "Objections Impact",
+          "variable": "O",
+          "type": "negative",
+          "weight": 0.2,
+          "score": 75.0,
+          "is_unknown": false,
+          "confidence": 1.0,
+          "evidence": [
+            "I haven't received any information yet.",
+            "12,000? That's much more expensive than unexpected. Another provider of a lower price.",
+            "But how do I know the support will actually be helpful. I don't want to pay for something and then struggle to get assistance.",
+            "Honestly, I am not convinced. I contacted your team yesterday and didn't receive a response."
+          ],
+          "explanation": "The customer raised several significant and unresolved objections, including a prior lack of response, the product being \"much more expensive than unexpected\" compared to competitors, and skepticism regarding support quality. These issues led to the customer explicitly stating they are \"not convinced\" and \"not making any decisions right now,\" indicating a high impact of objections."
+        }
+      },
+      "explanation": "Calculated heuristic Purchase Potential Score: 18/100 (Low Potential). Positive Score = 33.50 (normalized over weight 1.00), Objection Penalty = -15.00 (0.20 * 75.0) -> S_raw = 18.50, clamped = 18.50.",
+      "evidence": [
+        "Honestly, I am not convinced.",
+        "12,000? That's much more expensive than unexpected. Another provider of a lower price.",
+        "I am not making any decisions right now.",
+        "Our product helps businesses manage customer records, activities and follow-ups. Our plan also includes reporting features and customer support."
+      ],
+      "limitations": []
+    },
+    "analysis_timestamp": "2026-10-20 10:30 UTC",
+    "report_status": "available",
+    "audio_url": "/api/calls/CALL-002/audio"
+  },
+  "CALL-003": {
+    "call_id": "CALL-003",
+    "call_label": "Call #003",
+    "original_filename": "call3.mp4",
+    "file_size_bytes": 1523560,
+    "duration_seconds": 93.87,
+    "duration_formatted": "1:33",
+    "analysis_status": "completed",
+    "error_message": null,
+    "transcript": "Hello. Good morning. I am speaking with Rhea. Yes speaking. Good morning. Hi Rhea. I am calling from Brightness Cole Solutions. You recently inquired about our customer management software. Is this a good time to talk? Yes absolutely. I have actually been looking for a software to manage your customer enquiries because we are currently tracking everything in action. Yes I understand. Our software helps organize customer information. Track follow ups and manage cell activities in one place. May I ask how many people would be using it around 8 people? We are a small team but we are getting more enquiries every month and Excel is becoming difficult to manage. That makes sense. Our basic plan supports your team size. It costs rupees 12,000 per year and includes customer tracking and automated reminders. That sounds reasonable. Does it also provide cell reports? Yes. You can view cell performance and follow ups reports from your dashboard. Great. I would like to see your demo before making the final decision. Can we schedule one for tomorrow? Of course. Would 11 a.m. work for you? Yes. 11 a.m. is perfect. Please send me the details on whatsapp. Certainly. Thank you for your time Rhea. I will send the demo details shortly. Thank you. Looking forward to it. Goodbye.",
+    "transcript_segments": [
+      {
+        "start": 2.03,
+        "end": 5.03,
+        "text": "Hello. Good morning. I am speaking with Rhea."
+      },
+      {
+        "start": 5.03,
+        "end": 8.03,
+        "text": "Yes speaking. Good morning."
+      },
+      {
+        "start": 8.03,
+        "end": 11.03,
+        "text": "Hi Rhea. I am calling from Brightness Cole Solutions."
+      },
+      {
+        "start": 11.03,
+        "end": 15.03,
+        "text": "You recently inquired about our customer management software."
+      },
+      {
+        "start": 15.03,
+        "end": 17.03,
+        "text": "Is this a good time to talk?"
+      },
+      {
+        "start": 17.03,
+        "end": 21.03,
+        "text": "Yes absolutely. I have actually been looking for a software"
+      },
+      {
+        "start": 21.03,
+        "end": 26.03,
+        "text": "to manage your customer enquiries because we are currently tracking everything in action."
+      },
+      {
+        "start": 26.03,
+        "end": 31.03,
+        "text": "Yes I understand. Our software helps organize customer information."
+      },
+      {
+        "start": 34.02,
+        "end": 38.02,
+        "text": "Track follow ups and manage cell activities in one place."
+      },
+      {
+        "start": 38.02,
+        "end": 43.02,
+        "text": "May I ask how many people would be using it around 8 people?"
+      },
+      {
+        "start": 43.02,
+        "end": 49.02,
+        "text": "We are a small team but we are getting more enquiries every month and Excel is becoming difficult to manage."
+      },
+      {
+        "start": 49.02,
+        "end": 55.58,
+        "text": "That makes sense. Our basic plan supports your team size."
+      },
+      {
+        "start": 55.58,
+        "end": 61.58,
+        "text": "It costs rupees 12,000 per year and includes customer tracking and automated reminders."
+      },
+      {
+        "start": 62.58,
+        "end": 65.58,
+        "text": "That sounds reasonable. Does it also provide cell reports?"
+      },
+      {
+        "start": 65.58,
+        "end": 71.58,
+        "text": "Yes. You can view cell performance and follow ups reports from your dashboard."
+      },
+      {
+        "start": 71.58,
+        "end": 77.58,
+        "text": "Great. I would like to see your demo before making the final decision. Can we schedule one for tomorrow?"
+      },
+      {
+        "start": 77.58,
+        "end": 80.58,
+        "text": "Of course. Would 11 a.m. work for you?"
+      },
+      {
+        "start": 80.58,
+        "end": 85.58,
+        "text": "Yes. 11 a.m. is perfect. Please send me the details on whatsapp."
+      },
+      {
+        "start": 85.58,
+        "end": 90.58,
+        "text": "Certainly. Thank you for your time Rhea. I will send the demo details shortly."
+      },
+      {
+        "start": 90.58,
+        "end": 93.58,
+        "text": "Thank you. Looking forward to it. Goodbye."
+      }
+    ],
+    "sentiment": "Positive",
+    "sentiment_explanation": "Rhea expressed a clear need for the software, stating she has 'been looking for a software to manage your customer enquiries'. She found the price 'reasonable' and actively requested to schedule a demo for 'tomorrow', concluding with 'Looking forward to it'.",
+    "summary": "Rhea, a customer from a small team, inquired about Brightness Cole Solutions' customer management software. She expressed a strong need for a solution to manage increasing customer enquiries, as their current Excel tracking is becoming difficult. Rhea found the basic plan's price reasonable and confirmed the software's ability to provide sales reports. She requested and successfully scheduled a product demo for the following day.",
+    "customer_needs": [
+      "Software to manage customer enquiries",
+      "Solution for tracking customer information currently done in Excel",
+      "Ability to handle increasing monthly enquiries",
+      "Need for sales reports"
+    ],
+    "buying_signals": [
+      "I have actually been looking for a software to manage your customer enquiries",
+      "That sounds reasonable.",
+      "Great. I would like to see your demo before making the final decision.",
+      "Can we schedule one for tomorrow?",
+      "Looking forward to it."
+    ],
+    "objections": [],
+    "recommended_next_action": "Send the demo details to Rhea via WhatsApp as requested and prepare a comprehensive demo focusing on customer enquiry management, Excel data migration, and sales reporting capabilities.",
+    "evidence": [
+      "I have actually been looking for a software to manage your customer enquiries",
+      "That sounds reasonable.",
+      "Can we schedule one for tomorrow?",
+      "I have actually been looking for a software to manage your customer enquiries because we are currently tracking everything in action."
+    ],
+    "purchase_likelihood": 84,
+    "purchase_potential_score": 84,
+    "purchase_score_raw": 84.0,
+    "purchase_score_label": "High Potential",
+    "purchase_factors": {
+      "buying_intent": {
+        "name": "Buying Intent",
+        "variable": "B",
+        "type": "positive",
+        "weight": 0.35,
+        "score": 75.0,
+        "is_unknown": false,
+        "confidence": 0.9,
+        "evidence": [
+          "I have actually been looking for a software to manage your customer enquiries",
+          "Great. I would like to see your demo before making the final decision.",
+          "Can we schedule one for tomorrow?"
+        ],
+        "explanation": "Rhea explicitly stated she has been actively looking for such software and wants a demo as the final step before making a decision, indicating a strong intent to purchase pending the demo."
+      },
+      "budget_fit": {
+        "name": "Budget Fit",
+        "variable": "F",
+        "type": "positive",
+        "weight": 0.2,
+        "score": 90.0,
+        "is_unknown": false,
+        "confidence": 0.95,
+        "evidence": [
+          "That sounds reasonable."
+        ],
+        "explanation": "The customer explicitly stated that the price of rupees 12,000 per year 'sounds reasonable', indicating it aligns well with her budget expectations."
+      },
+      "urgency_timeline": {
+        "name": "Urgency & Timeline",
+        "variable": "U",
+        "type": "positive",
+        "weight": 0.15,
+        "score": 80.0,
+        "is_unknown": false,
+        "confidence": 0.9,
+        "evidence": [
+          "Can we schedule one for tomorrow?"
+        ],
+        "explanation": "Rhea requested to schedule a demo for 'tomorrow', demonstrating a high level of urgency to move forward with the evaluation process."
+      },
+      "product_fit": {
+        "name": "Product Fit",
+        "variable": "P",
+        "type": "positive",
+        "weight": 0.15,
+        "score": 95.0,
+        "is_unknown": false,
+        "confidence": 0.95,
+        "evidence": [
+          "I have actually been looking for a software to manage your customer enquiries because we are currently tracking everything in action.",
+          "Excel is becoming difficult to manage.",
+          "Does it also provide cell reports?"
+        ],
+        "explanation": "The customer's core pain point of managing customer enquiries and moving away from Excel is directly addressed by the software. Her only feature question about 'cell reports' was confirmed as available, indicating an excellent product fit."
+      },
+      "engagement": {
+        "name": "Engagement",
+        "variable": "E",
+        "type": "positive",
+        "weight": 0.15,
+        "score": 90.0,
+        "is_unknown": false,
+        "confidence": 0.95,
+        "evidence": [
+          "Yes absolutely. I have actually been looking for a software to manage your customer enquiries...",
+          "around 8 people? We are a small team...",
+          "Does it also provide cell reports?",
+          "Great. I would like to see your demo before making the final decision. Can we schedule one for tomorrow?"
+        ],
+        "explanation": "Rhea was highly engaged throughout the conversation, explaining her needs, asking relevant questions, and proactively scheduling the next step (a demo)."
+      },
+      "objections_impact": {
+        "name": "Objections Impact",
+        "variable": "O",
+        "type": "negative",
+        "weight": 0.2,
+        "score": 0.0,
+        "is_unknown": false,
+        "confidence": 1.0,
+        "evidence": [],
+        "explanation": "The customer's question about 'cell reports' was a clarification, not an objection, and was immediately resolved. No other hesitations or roadblocks were raised."
+      }
+    },
+    "purchase_explanation": "Calculated heuristic Purchase Potential Score: 84/100 (High Potential). Positive Score = 84.00 (normalized over weight 1.00), Objection Penalty = -0.00 (0.20 * 0.0) -> S_raw = 84.00, clamped = 84.00.",
+    "purchase_calculation": {
+      "score": 84,
+      "score_raw": 84.0,
+      "score_label": "High Potential",
+      "positive_score": 84.0,
+      "objection_penalty": 0.0,
+      "objection_penalty_applied": true,
+      "formula": "S_raw = (0.35 * B) + (0.20 * F) + (0.15 * U) + (0.15 * P) + (0.15 * E) - (0.20 * O)",
+      "weights_used": {
+        "buying_intent": 0.35,
+        "budget_fit": 0.2,
+        "urgency_timeline": 0.15,
+        "product_fit": 0.15,
+        "engagement": 0.15
+      },
+      "factors": {
+        "buying_intent": {
+          "name": "Buying Intent",
+          "variable": "B",
+          "type": "positive",
+          "weight": 0.35,
+          "score": 75.0,
+          "is_unknown": false,
+          "confidence": 0.9,
+          "evidence": [
+            "I have actually been looking for a software to manage your customer enquiries",
+            "Great. I would like to see your demo before making the final decision.",
+            "Can we schedule one for tomorrow?"
+          ],
+          "explanation": "Rhea explicitly stated she has been actively looking for such software and wants a demo as the final step before making a decision, indicating a strong intent to purchase pending the demo."
+        },
+        "budget_fit": {
+          "name": "Budget Fit",
+          "variable": "F",
+          "type": "positive",
+          "weight": 0.2,
+          "score": 90.0,
+          "is_unknown": false,
+          "confidence": 0.95,
+          "evidence": [
+            "That sounds reasonable."
+          ],
+          "explanation": "The customer explicitly stated that the price of rupees 12,000 per year 'sounds reasonable', indicating it aligns well with her budget expectations."
+        },
+        "urgency_timeline": {
+          "name": "Urgency & Timeline",
+          "variable": "U",
+          "type": "positive",
+          "weight": 0.15,
+          "score": 80.0,
+          "is_unknown": false,
+          "confidence": 0.9,
+          "evidence": [
+            "Can we schedule one for tomorrow?"
+          ],
+          "explanation": "Rhea requested to schedule a demo for 'tomorrow', demonstrating a high level of urgency to move forward with the evaluation process."
+        },
+        "product_fit": {
+          "name": "Product Fit",
+          "variable": "P",
+          "type": "positive",
+          "weight": 0.15,
+          "score": 95.0,
+          "is_unknown": false,
+          "confidence": 0.95,
+          "evidence": [
+            "I have actually been looking for a software to manage your customer enquiries because we are currently tracking everything in action.",
+            "Excel is becoming difficult to manage.",
+            "Does it also provide cell reports?"
+          ],
+          "explanation": "The customer's core pain point of managing customer enquiries and moving away from Excel is directly addressed by the software. Her only feature question about 'cell reports' was confirmed as available, indicating an excellent product fit."
+        },
+        "engagement": {
+          "name": "Engagement",
+          "variable": "E",
+          "type": "positive",
+          "weight": 0.15,
+          "score": 90.0,
+          "is_unknown": false,
+          "confidence": 0.95,
+          "evidence": [
+            "Yes absolutely. I have actually been looking for a software to manage your customer enquiries...",
+            "around 8 people? We are a small team...",
+            "Does it also provide cell reports?",
+            "Great. I would like to see your demo before making the final decision. Can we schedule one for tomorrow?"
+          ],
+          "explanation": "Rhea was highly engaged throughout the conversation, explaining her needs, asking relevant questions, and proactively scheduling the next step (a demo)."
+        },
+        "objections_impact": {
+          "name": "Objections Impact",
+          "variable": "O",
+          "type": "negative",
+          "weight": 0.2,
+          "score": 0.0,
+          "is_unknown": false,
+          "confidence": 1.0,
+          "evidence": [],
+          "explanation": "The customer's question about 'cell reports' was a clarification, not an objection, and was immediately resolved. No other hesitations or roadblocks were raised."
+        }
+      },
+      "explanation": "Calculated heuristic Purchase Potential Score: 84/100 (High Potential). Positive Score = 84.00 (normalized over weight 1.00), Objection Penalty = -0.00 (0.20 * 0.0) -> S_raw = 84.00, clamped = 84.00.",
+      "evidence": [
+        "I have actually been looking for a software to manage your customer enquiries",
+        "That sounds reasonable.",
+        "Can we schedule one for tomorrow?",
+        "I have actually been looking for a software to manage your customer enquiries because we are currently tracking everything in action."
+      ],
+      "limitations": []
+    },
+    "analysis_timestamp": "2026-10-20 10:32 UTC",
+    "report_status": "available",
+    "audio_url": "/api/calls/CALL-003/audio"
+  },
+  "CALL-004": {
+    "call_id": "CALL-004",
+    "call_label": "Call #004",
+    "original_filename": "call4.mp4",
+    "file_size_bytes": 1472954,
+    "duration_seconds": 90.75,
+    "duration_formatted": "1:30",
+    "analysis_status": "completed",
+    "error_message": null,
+    "transcript": "Hello, I am speaking with Arjun. Yes, this is Arjun. Who is calling? Hello Arjun. I am calling from Brightness Solutions. You requested information about our customer management software through our website. Oh yes. I was just comparing a few different software options. Certainly, I will be happy to explain our product. It has business as manage, customer details, track and queries and schedule follow ups. Okay. What is the starting price? Our basic plan started at rupees 12,000 per year. We also offer plans with additional reporting and automation features. I see. And how difficult is it to learn? Our team is not very familiar with this type of software. Okay. Then the interference, the interface is designed to be straightforward. And we provide onboarding assistance. That is useful. Do you have any free trials? We can arrange a product demonstration so you can explore their features before deciding. Okay. Please send me the details by email. I will review them and compare them with the other options. I am in considering. Of course. Is there a particular date by which you plan to choose a product? Not really. We are just exploring at that moment. I will get back to you if we decide to move forward. No problem Arjun. I will send the information today. Thank you for your time. Thank you. Goodbye.",
+    "transcript_segments": [
+      {
+        "start": 2.64,
+        "end": 4.64,
+        "text": "Hello, I am speaking with Arjun."
+      },
+      {
+        "start": 4.64,
+        "end": 7.64,
+        "text": "Yes, this is Arjun. Who is calling?"
+      },
+      {
+        "start": 7.64,
+        "end": 10.64,
+        "text": "Hello Arjun. I am calling from Brightness Solutions."
+      },
+      {
+        "start": 10.64,
+        "end": 15.64,
+        "text": "You requested information about our customer management software through our website."
+      },
+      {
+        "start": 15.64,
+        "end": 19.64,
+        "text": "Oh yes. I was just comparing a few different software options."
+      },
+      {
+        "start": 19.64,
+        "end": 23.64,
+        "text": "Certainly, I will be happy to explain our product."
+      },
+      {
+        "start": 23.64,
+        "end": 29.64,
+        "text": "It has business as manage, customer details, track and queries and schedule follow ups."
+      },
+      {
+        "start": 29.64,
+        "end": 31.64,
+        "text": "Okay. What is the starting price?"
+      },
+      {
+        "start": 31.64,
+        "end": 35.64,
+        "text": "Our basic plan started at rupees 12,000 per year."
+      },
+      {
+        "start": 35.64,
+        "end": 39.64,
+        "text": "We also offer plans with additional reporting and automation features."
+      },
+      {
+        "start": 39.64,
+        "end": 42.64,
+        "text": "I see. And how difficult is it to learn?"
+      },
+      {
+        "start": 42.64,
+        "end": 46.64,
+        "text": "Our team is not very familiar with this type of software."
+      },
+      {
+        "start": 46.64,
+        "end": 53.64,
+        "text": "Okay. Then the interference, the interface is designed to be straightforward."
+      },
+      {
+        "start": 53.64,
+        "end": 56.64,
+        "text": "And we provide onboarding assistance."
+      },
+      {
+        "start": 56.64,
+        "end": 59.64,
+        "text": "That is useful. Do you have any free trials?"
+      },
+      {
+        "start": 59.64,
+        "end": 65.64,
+        "text": "We can arrange a product demonstration so you can explore their features before deciding."
+      },
+      {
+        "start": 65.64,
+        "end": 68.64,
+        "text": "Okay. Please send me the details by email."
+      },
+      {
+        "start": 68.64,
+        "end": 72.64,
+        "text": "I will review them and compare them with the other options. I am in considering."
+      },
+      {
+        "start": 72.64,
+        "end": 77.64,
+        "text": "Of course. Is there a particular date by which you plan to choose a product?"
+      },
+      {
+        "start": 77.64,
+        "end": 80.64,
+        "text": "Not really. We are just exploring at that moment."
+      },
+      {
+        "start": 80.64,
+        "end": 83.64,
+        "text": "I will get back to you if we decide to move forward."
+      },
+      {
+        "start": 83.64,
+        "end": 88.64,
+        "text": "No problem Arjun. I will send the information today. Thank you for your time."
+      },
+      {
+        "start": 88.64,
+        "end": 90.64,
+        "text": "Thank you. Goodbye."
+      }
+    ],
+    "sentiment": "Neutral",
+    "sentiment_explanation": "Arjun maintained a polite and conversational tone throughout the call. He responded to questions and expressed interest in receiving more information, but did not show strong enthusiasm or frustration, indicating a neutral emotional state.",
+    "summary": "Arjun, who had previously requested information online, spoke with Brightness Solutions about their customer management software. He is currently comparing several options and is in an early exploration phase. He inquired about pricing, ease of learning, and free trials. He requested product details via email to review and compare with other options, stating he would get back to the company if they decide to move forward, indicating no immediate urgency.",
+    "customer_needs": [
+      "easy-to-learn software",
+      "ability to compare different software options",
+      "product demonstration/trial"
+    ],
+    "buying_signals": [
+      "What is the starting price?",
+      "Do you have any free trials?",
+      "Please send me the details by email."
+    ],
+    "objections": [
+      "Our team is not very familiar with this type of software."
+    ],
+    "recommended_next_action": "Send the requested product details via email promptly. Follow up after a reasonable period (e.g., 1-2 weeks) to check if Arjun has reviewed the information and if he has any further questions, acknowledging his current exploration phase without pushing for an immediate decision.",
+    "evidence": [
+      "I was just comparing a few different software options.",
+      "Not really. We are just exploring at that moment. I will get back to you if we decide to move forward.",
+      "And how difficult is it to learn? Our team is not very familiar with this type of software.",
+      "What is the starting price?"
+    ],
+    "purchase_likelihood": 42,
+    "purchase_potential_score": 42,
+    "purchase_score_raw": 41.56,
+    "purchase_score_label": "Early Interest",
+    "purchase_factors": {
+      "buying_intent": {
+        "name": "Buying Intent",
+        "variable": "B",
+        "type": "positive",
+        "weight": 0.35,
+        "score": 20.0,
+        "is_unknown": false,
+        "confidence": 1.0,
+        "evidence": [
+          "I was just comparing a few different software options.",
+          "I will review them and compare them with the other options. I am in considering.",
+          "Not really. We are just exploring at that moment. I will get back to you if we decide to move forward."
+        ],
+        "explanation": "Arjun explicitly states he is 'just comparing a few different software options' and 'exploring at that moment,' indicating a very early stage of consideration with no firm intent to purchase this specific product yet."
+      },
+      "budget_fit": {
+        "name": "Budget Fit",
+        "variable": "F",
+        "type": "positive",
+        "weight": 0.2,
+        "score": null,
+        "is_unknown": true,
+        "confidence": 0.0,
+        "evidence": [
+          "What is the starting price?",
+          "Our basic plan started at rupees 12,000 per year."
+        ],
+        "explanation": "Arjun asked for the price, which was provided, but he did not state any budget or react to the price in a way that indicates its fit or lack thereof. Therefore, budget fit cannot be assessed."
+      },
+      "urgency_timeline": {
+        "name": "Urgency & Timeline",
+        "variable": "U",
+        "type": "positive",
+        "weight": 0.15,
+        "score": 15.0,
+        "is_unknown": false,
+        "confidence": 1.0,
+        "evidence": [
+          "Not really. We are just exploring at that moment. I will get back to you if we decide to move forward."
+        ],
+        "explanation": "Arjun explicitly stated there is no particular date by which they plan to choose a product and that they are 'just exploring at that moment,' indicating very low urgency."
+      },
+      "product_fit": {
+        "name": "Product Fit",
+        "variable": "P",
+        "type": "positive",
+        "weight": 0.15,
+        "score": 85.0,
+        "is_unknown": false,
+        "confidence": 0.8,
+        "evidence": [
+          "And how difficult is it to learn? Our team is not very familiar with this type of software.",
+          "Okay. Then the interference, the interface is designed to be straightforward. And we provide onboarding assistance. That is useful."
+        ],
+        "explanation": "Arjun expressed a need for easy-to-learn software due to his team's unfamiliarity. The salesperson addressed this by stating the interface is straightforward and onboarding assistance is provided, which Arjun found 'useful,' suggesting a good fit for this specific stated need."
+      },
+      "engagement": {
+        "name": "Engagement",
+        "variable": "E",
+        "type": "positive",
+        "weight": 0.15,
+        "score": 75.0,
+        "is_unknown": false,
+        "confidence": 1.0,
+        "evidence": [
+          "What is the starting price?",
+          "And how difficult is it to learn? Our team is not very familiar with this type of software.",
+          "Do you have any free trials?",
+          "Please send me the details by email."
+        ],
+        "explanation": "Arjun actively participated by asking several relevant questions about pricing, ease of use, and product demonstration options. He also clearly communicated his current stage in the buying process."
+      },
+      "objections_impact": {
+        "name": "Objections Impact",
+        "variable": "O",
+        "type": "negative",
+        "weight": 0.2,
+        "score": 0.0,
+        "is_unknown": false,
+        "confidence": 1.0,
+        "evidence": [
+          "And how difficult is it to learn? Our team is not very familiar with this type of software.",
+          "Do you have any free trials?",
+          "Okay. Then the interference, the interface is designed to be straightforward. And we provide onboarding assistance. That is useful.",
+          "We can arrange a product demonstration so you can explore their features before deciding."
+        ],
+        "explanation": "Arjun raised a concern about the learning curve, which was addressed by the salesperson and Arjun found it 'useful.' He also asked about free trials, which was addressed by offering a product demonstration. These points were addressed to Arjun's apparent satisfaction, leaving no significant unresolved objections."
+      }
+    },
+    "purchase_explanation": "Calculated heuristic Purchase Potential Score: 42/100 (Early Interest). Positive Score = 41.56 (normalized over weight 0.80), Objection Penalty = -0.00 (0.20 * 0.0) -> S_raw = 41.56, clamped = 41.56.",
+    "purchase_calculation": {
+      "score": 42,
+      "score_raw": 41.56,
+      "score_label": "Early Interest",
+      "positive_score": 41.56,
+      "objection_penalty": 0.0,
+      "objection_penalty_applied": true,
+      "formula": "S_raw = (0.35 * B) + (0.20 * F) + (0.15 * U) + (0.15 * P) + (0.15 * E) - (0.20 * O)",
+      "weights_used": {
+        "buying_intent": 0.35,
+        "budget_fit": 0.2,
+        "urgency_timeline": 0.15,
+        "product_fit": 0.15,
+        "engagement": 0.15
+      },
+      "factors": {
+        "buying_intent": {
+          "name": "Buying Intent",
+          "variable": "B",
+          "type": "positive",
+          "weight": 0.35,
+          "score": 20.0,
+          "is_unknown": false,
+          "confidence": 1.0,
+          "evidence": [
+            "I was just comparing a few different software options.",
+            "I will review them and compare them with the other options. I am in considering.",
+            "Not really. We are just exploring at that moment. I will get back to you if we decide to move forward."
+          ],
+          "explanation": "Arjun explicitly states he is 'just comparing a few different software options' and 'exploring at that moment,' indicating a very early stage of consideration with no firm intent to purchase this specific product yet."
+        },
+        "budget_fit": {
+          "name": "Budget Fit",
+          "variable": "F",
+          "type": "positive",
+          "weight": 0.2,
+          "score": null,
+          "is_unknown": true,
+          "confidence": 0.0,
+          "evidence": [
+            "What is the starting price?",
+            "Our basic plan started at rupees 12,000 per year."
+          ],
+          "explanation": "Arjun asked for the price, which was provided, but he did not state any budget or react to the price in a way that indicates its fit or lack thereof. Therefore, budget fit cannot be assessed."
+        },
+        "urgency_timeline": {
+          "name": "Urgency & Timeline",
+          "variable": "U",
+          "type": "positive",
+          "weight": 0.15,
+          "score": 15.0,
+          "is_unknown": false,
+          "confidence": 1.0,
+          "evidence": [
+            "Not really. We are just exploring at that moment. I will get back to you if we decide to move forward."
+          ],
+          "explanation": "Arjun explicitly stated there is no particular date by which they plan to choose a product and that they are 'just exploring at that moment,' indicating very low urgency."
+        },
+        "product_fit": {
+          "name": "Product Fit",
+          "variable": "P",
+          "type": "positive",
+          "weight": 0.15,
+          "score": 85.0,
+          "is_unknown": false,
+          "confidence": 0.8,
+          "evidence": [
+            "And how difficult is it to learn? Our team is not very familiar with this type of software.",
+            "Okay. Then the interference, the interface is designed to be straightforward. And we provide onboarding assistance. That is useful."
+          ],
+          "explanation": "Arjun expressed a need for easy-to-learn software due to his team's unfamiliarity. The salesperson addressed this by stating the interface is straightforward and onboarding assistance is provided, which Arjun found 'useful,' suggesting a good fit for this specific stated need."
+        },
+        "engagement": {
+          "name": "Engagement",
+          "variable": "E",
+          "type": "positive",
+          "weight": 0.15,
+          "score": 75.0,
+          "is_unknown": false,
+          "confidence": 1.0,
+          "evidence": [
+            "What is the starting price?",
+            "And how difficult is it to learn? Our team is not very familiar with this type of software.",
+            "Do you have any free trials?",
+            "Please send me the details by email."
+          ],
+          "explanation": "Arjun actively participated by asking several relevant questions about pricing, ease of use, and product demonstration options. He also clearly communicated his current stage in the buying process."
+        },
+        "objections_impact": {
+          "name": "Objections Impact",
+          "variable": "O",
+          "type": "negative",
+          "weight": 0.2,
+          "score": 0.0,
+          "is_unknown": false,
+          "confidence": 1.0,
+          "evidence": [
+            "And how difficult is it to learn? Our team is not very familiar with this type of software.",
+            "Do you have any free trials?",
+            "Okay. Then the interference, the interface is designed to be straightforward. And we provide onboarding assistance. That is useful.",
+            "We can arrange a product demonstration so you can explore their features before deciding."
+          ],
+          "explanation": "Arjun raised a concern about the learning curve, which was addressed by the salesperson and Arjun found it 'useful.' He also asked about free trials, which was addressed by offering a product demonstration. These points were addressed to Arjun's apparent satisfaction, leaving no significant unresolved objections."
+        }
+      },
+      "explanation": "Calculated heuristic Purchase Potential Score: 42/100 (Early Interest). Positive Score = 41.56 (normalized over weight 0.80), Objection Penalty = -0.00 (0.20 * 0.0) -> S_raw = 41.56, clamped = 41.56.",
+      "evidence": [
+        "I was just comparing a few different software options.",
+        "Not really. We are just exploring at that moment. I will get back to you if we decide to move forward.",
+        "And how difficult is it to learn? Our team is not very familiar with this type of software.",
+        "What is the starting price?"
+      ],
+      "limitations": [
+        "Budget Fit is unknown/unassessed from dialogue."
+      ]
+    },
+    "analysis_timestamp": "2026-10-20 10:33 UTC",
+    "report_status": "available",
+    "audio_url": "/api/calls/CALL-004/audio"
+  }
+}
