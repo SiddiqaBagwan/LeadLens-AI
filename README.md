@@ -81,8 +81,3 @@ probability of a customer making a purchase.
 - Node.js and npm
 - A Gemini API key
 
-### 1. Clone the repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd LeadLens-AI
